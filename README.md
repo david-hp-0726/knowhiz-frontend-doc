@@ -37,7 +37,7 @@ This document provides instructions on:
 2. In the `records` section, click `Create record`.
 3. Put `www` for the record name, `[the above dns]` for value, leave the rest as their defaults, and then create the record. This would configure `www.knowhiz.us`.
 ![image](https://github.com/david-hp-0726/knowhiz-frontend-doc/assets/120674894/80b7f348-2036-4253-a6cc-081d21c5f0d4)
-4. To configure `knowhiz.us`, repeat steps 1 through 3. In step 3, put `` for the record, `[the above dns]` for value, leave the rest as their defaults, and then create the record.
+4. To configure `knowhiz.us`, repeat steps 1 through 3. In step 3, leave the record name blank, put `[the above dns]` for value, leave the rest as their defaults, and then create the record.
 ![image](https://github.com/david-hp-0726/knowhiz-frontend-doc/assets/120674894/2775ab97-9d0d-42ea-9b3b-12330f5c8bc8)
 
 
